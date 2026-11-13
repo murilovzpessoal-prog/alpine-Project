@@ -14,7 +14,7 @@ export default function CourseMembersApp() {
     try {
       const stored = localStorage.getItem('projeto_member_authenticated');
       // Default true para abrir direto, mas respeita logout explícito
-      return stored !== 'false';
+return stored === 'true';
     } catch {
       return true;
     }
