@@ -1826,5 +1826,99 @@ export const COURSE_DATA: CourseData = {
         },
       ],
     },
+
+    // ==================================================
+    // MÓDULO 16: ORBIEX
+    // ==================================================
+    {
+      id: 'mod-16',
+      number: '16',
+      title: 'Orbiex',
+      description:
+        'Formatos de alta conversão para TikTok Shop: Mirror no Face, No Face e Formato POV na prática.',
+      coverImage: '/assets/capas-modulos/modulo-16-orbiex.jpg',
+      badge: 'MÓDULO 16 • ORBIEX',
+      accentColor: '#ffffff',
+      lessons: [
+        {
+          id: 'l-16-1',
+          moduleId: 'mod-16',
+          moduleName: 'Módulo 16: Orbiex',
+          number: '01',
+          title: 'Mirror no Face',
+          duration: '1080p Full HD',
+          videoUrl: 'https://stream.cakto.com.br/80a8bfad-9a56-4ed7-8a8b-e7e52b258e32/1080p/video.m3u8',
+          coverImage: '/assets/capas-modulos/modulo-16-orbiex.jpg',
+          description:
+            'Aprenda a estrutura completa e gravação do formato Mirror No Face para TikTok Shop com máxima retenção e vendas.',
+          fullContent:
+            'Nesta aula você vai aprender como produzir vídeos no formato Mirror No Face — um dos formatos de maior conversão para o TikTok Shop. Veja o passo a passo da gravação, ângulos de espelho, posicionamento de produto e chamada para ação sem precisar mostrar o rosto.',
+          takeaways: [
+            'Como posicionar o celular e o espelho para o formato Mirror No Face.',
+            'Como valorizar os detalhes e caimento do produto durante a gravação.',
+            'Como prender a atenção nos primeiros 3 segundos e conduzir ao carrinho amarelo.',
+          ],
+          checklist: [
+            'Configurar iluminação e espelho limpo',
+            'Gravar as variações de ângulo sem mostrar o rosto',
+            'Adicionar a chamada para ação do carrinho amarelo',
+          ],
+          attachments: [],
+          comments: [],
+        },
+        {
+          id: 'l-16-2',
+          moduleId: 'mod-16',
+          moduleName: 'Módulo 16: Orbiex',
+          number: '02',
+          title: 'No Face',
+          duration: '1080p Full HD',
+          videoUrl: 'https://stream.cakto.com.br/04c5a8d8-9a28-4c8c-b36d-323e5e1cee54/1080p/video.m3u8',
+          coverImage: '/assets/capas-modulos/modulo-16-orbiex.jpg',
+          description:
+            'Domine o formato No Face completo para criar vídeos virais que vendem sem expor sua imagem.',
+          fullContent:
+            'Aprenda a metodologia No Face definitiva. Descubra como criar conteúdo envolvente, demonstrar benefícios do produto e gerar desejo imediato de compra no TikTok Shop sem precisar aparecer.',
+          takeaways: [
+            'Enquadramentos focados 100% no produto e na experiência de uso.',
+            'Roteiro dinâmico e cortes rápidos que mantêm a retenção alta.',
+            'Ganchos visuais e textuais para destravar visualizações virais.',
+          ],
+          checklist: [
+            'Definir o gancho visual de abertura',
+            'Gravar os detalhes de textura, uso e benefícios',
+            'Inserir trilha sonora em alta do catálogo comercial',
+          ],
+          attachments: [],
+          comments: [],
+        },
+        {
+          id: 'l-16-3',
+          moduleId: 'mod-16',
+          moduleName: 'Módulo 16: Orbiex',
+          number: '03',
+          title: 'Formato POV',
+          duration: '1080p Full HD',
+          videoUrl: 'https://stream.cakto.com.br/e9d30fb8-40a7-4c6a-8c79-10c184416fa5/1080p/video.m3u8',
+          coverImage: '/assets/capas-modulos/modulo-16-orbiex.jpg',
+          description:
+            'Aprenda como aplicar a perspectiva em primeira pessoa (Point of View) para criar conexão imediata e impulsionar conversões.',
+          fullContent:
+            'O formato POV (Point of View / Ponto de Vista) coloca o espectador diretamente no controle da situação. Nesta aula você verá como gravar sob a perspectiva do cliente, gerando sensação de posse imediata do produto e acelerando a decisão de compra no TikTok Shop.',
+          takeaways: [
+            'Como simular a experiência em primeira pessoa com estabilidade.',
+            'Frases de gancho perfeitas para o formato POV ("POV: você encontrou...", "POV: finalmente chegou...").',
+            'Estratégia de conversão rápida nos últimos segundos do vídeo.',
+          ],
+          checklist: [
+            'Ajustar o celular na altura dos olhos ou peito',
+            'Criar a narrativa do POV desde o primeiro segundo',
+            'Conectar o gancho com o link do carrinho na tela',
+          ],
+          attachments: [],
+          comments: [],
+        },
+      ],
+    },
   ],
 };
